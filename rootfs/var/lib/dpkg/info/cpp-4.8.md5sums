@@ -1,0 +1,4 @@
+87b662d946f77a38a0d7072723555c13  usr/bin/cpp-4.8
+2dd4fb6f6a82b48ef953e57340a7e1bf  usr/lib/gcc/x86_64-linux-gnu/4.8/cc1
+c5fe9956be86853520c6846deeedbbad  usr/lib/gcc/x86_64-linux-gnu/4.8/liblto_plugin.so.0.0.0
+a9e450f384617ca86da906d1562c7647  usr/share/man/man1/cpp-4.8.1.gz

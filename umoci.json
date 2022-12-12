@@ -1,0 +1,1 @@
+{"umoci_version":"2","from_descriptor_path":{"descriptor_walk":[{"mediaType":"application/vnd.oci.image.manifest.v1+json","digest":"sha256:bc3e968e4446e2d12f60f744742fb588485774a5f42777a942c481fc0148ce8e","size":2535,"annotations":{"org.opencontainers.image.ref.name":"1.1.1"}}]},"map_options":{"uid_mappings":null,"gid_mappings":null,"rootless":false},"whiteout_mode":0}
